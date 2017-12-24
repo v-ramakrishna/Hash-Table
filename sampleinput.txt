@@ -1,0 +1,66 @@
+13
+Archery,M,TEAM,Archery,Lord's Cricket Ground,1. GOLD,team ITA,Italy
+Archery,M,TEAM,Archery,Lord's Cricket Ground,2. SILVER,team USA,United States
+Archery,M,TEAM,Archery,Lord's Cricket Ground,3. BRONZE,team KOR,South Korea
+Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
+
+Cycling,M,IND,Road,Regent's Park,2. SILVER,Rigoberto Uran,Colombia
+
+Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
+Fencing,F,IND,Foil,ExCeL,1. GOLD,Elisa Di Francisca,Italy
+Fencing,F,IND,Foil,ExCeL,2. SILVER,Arianna Errigo,Italy
+
+Fencing,F,IND,Foil,ExCeL,3. BRONZE,Valentina Vezzali,Italy
+
+Judo,F,IND,48,ExCeL,1. GOLD,Sarah Menezes,Brazil
+
+Judo,F,IND,48,ExCeL,2. SILVER,Alina Dumitru,Romania
+
+Judo,F,IND,48,ExCeL,3. BRONZE,Chrline van Snick,Belgium
+Judo,F,IND,48,ExCeL,3. BRONZE,Eva Csernoviczki,Hungary
+Judo,M,IND,60,ExCeL,1. GOLD,Arsen Galstjan,Russia
+
+Judo,M,IND,60,ExCeL,2. SILVER,Hiroaki Hiraoka,Japan
+
+Judo,M,IND,60,ExCeL,3. BRONZE,Felipe Kitadai,Brazil
+
+Judo,M,IND,60,ExCeL,3. BRONZE,Rishod Sobirov,Uzbekistan
+Shooting,F,IND,Pistol,Royal Artillery Barracks,1. GOLD,Jongoh Jin,South Korea
+Shooting,F,IND,Pistol,Royal Artillery Barracks,2. SILVER,Luca Tesconi,Italy
+Shooting,F,IND,Pistol,Royal Artillery Barracks,3. BRONZE,Andrija Zlatic,Serbia
+
+Shooting,F,IND,Rifle,Royal Artillery Barracks,1. GOLD,Siling Yi,China
+
+Shooting,F,IND,Rifle,Royal Artillery Barracks,2. SILVER,Sylwia Bogacka,Poland
+Shooting,F,IND,Rifle,Royal Artillery Barracks,3. BRONZE,Dan Yu,China
+Swimming,M,IND,Medley,Aquatics Centre,1. GOLD,Ryan Lochte,United States
+
+Swimming,M,IND,Medley,Aquatics Centre,2. SILVER,Thiago Pereira,Brazil
+Swimming,M,IND,Medley,Aquatics Centre,3. BRONZE,Kosuke Hagino,Japan
+
+Swimming,M,IND,Freestyle,Aquatics Centre,1. GOLD,Yang Sun,China
+Swimming,M,IND,Freestyle,Aquatics Centre,2. SILVER,Tehwan Park,South Korea
+Swimming,M,IND,Freestyle,Aquatics Centre,3. BRONZE,Peter Vanderkaay,United States
+Swimming,F,IND,Medley,Aquatics Centre,1. GOLD,Shiwen Ye,China
+Swimming,F,IND,Medley,Aquatics Centre,2. SILVER,Elizabeth Beisel,United States
+Swimming,F,IND,Medley,Aquatics Centre,3. BRONZE,Xuanxu Li,China
+
+Swimming,F,TEAM,Freestyle,Aquatics Centre,1. GOLD,team AUS,Australia
+Swimming,F,TEAM,Freestyle,Aquatics Centre,2. SILVER,team NED,Netherlands
+
+Swimming,F,TEAM,Freestyle,Aquatics Centre,3. BRONZE,team USA,United States
+
+Weightlifting,F,IND,48,ExCeL,1. GOLD,Mingjuan Wang,China
+Weightlifting,F,IND,48,ExCeL,2. SILVER,Hiromi Miyake,Japan
+
+Weightlifting,F,IND,48,ExCeL,3. BRONZE,Chun Hwa Ryang,North Korea
+
+Archery,F,TEAM,Archery,Lord's Cricket Ground,1. GOLD,team KOR,South Korea
+
+Archery,F,TEAM,Archery,Lord's Cricket Ground,2. SILVER,team CHN,China
+Archery,F,TEAM,Archery,Lord's Cricket Ground,3. BRONZE,team JAP,Japan
+Cycling,F,IND,Road,Regent's Park,1. GOLD,Marianne Vos,Netherlands
+
+Cycling,F,IND,Road,Regent's Park,2. SILVER,Elizabeth Armitstead,Great Britain
+
+
